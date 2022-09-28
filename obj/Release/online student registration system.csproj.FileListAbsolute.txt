@@ -1,0 +1,6 @@
+C:\Users\kondu\source\repos\online student registration system\online student registration system\obj\Release\online student registration system.csproj.AssemblyReference.cache
+C:\Users\kondu\source\repos\online student registration system\online student registration system\obj\Release\online student registration system.csproj.SuggestedBindingRedirects.cache
+C:\Users\kondu\source\repos\online student registration system\online student registration system\obj\Release\online_student_registration_system.Form1.resources
+C:\Users\kondu\source\repos\online student registration system\online student registration system\obj\Release\online_student_registration_system.Properties.Resources.resources
+C:\Users\kondu\source\repos\online student registration system\online student registration system\obj\Release\online student registration system.csproj.GenerateResource.cache
+C:\Users\kondu\source\repos\online student registration system\online student registration system\obj\Release\online student registration system.csproj.CoreCompileInputs.cache
